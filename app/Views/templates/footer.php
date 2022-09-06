@@ -1,3 +1,3 @@
-<em>&copy; 2022</em>
+<em>&copy; tahun 2022</em>
 </body>
 </html>
