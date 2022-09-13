@@ -2,6 +2,9 @@
 
 namespace App\Controllers;
 
+
+use App\Models\Mahasiswa;
+
 class Pages extends BaseController
 {
     public function index()
